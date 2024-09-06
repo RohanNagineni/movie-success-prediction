@@ -1,0 +1,100 @@
+Name,Vote Average,Vote Count,Director Popularity,Cast Popularity,Genres,Movie Popularity,Production Companies,Budget,Revenue,Runtime,Release Date Month,TMDB ID,IMDB ID
+Alien: Romulus,0.0,0,23.325,35.79083333333333,"['Science Fiction', 'Horror', 'Thriller']",121.408,"['20th Century Studios', 'Scott Free Productions', 'Brandywine Productions']",40000000,0,119,2024-08,945961,tt18412256
+Borderlands,0.0,0,31.639,27.35173076923077,"['Action', 'Science Fiction', 'Adventure']",88.453,"['Picturestart', 'Arad Productions', 'Gearbox Studios', '2K', 'Media Capital Technologies', 'Lionsgate']",100000000,0,101,2024-08,365177,tt4978420
+Saving Bikini Bottom: The Sandy Cheeks Movie,0.0,0,8.361,25.456954545454547,"['Animation', 'Comedy', 'Adventure', 'Family']",70.274,['Nickelodeon Movies'],0,0,82,2024-08,831815,tt23063732
+It Ends with Us,0.0,0,26.779,30.790749999999996,"['Drama', 'Romance']",63.441,"['Wayfarer Studios', 'Saks Picture Company', 'Columbia Pictures']",0,0,130,2024-08,1079091,tt10655524
+Harold and the Purple Crayon,0.0,0,23.264,34.62339999999999,"['Adventure', 'Family', 'Fantasy', 'Comedy']",44.958,"['Davis Entertainment', 'Columbia Pictures']",0,0,90,2024-08,826510,tt1609486
+The Crow,0.0,0,4.365,17.66857142857143,"['Action', 'Fantasy', 'Horror']",48.416,"['The Electric Shadow Company', 'Davis Films', 'Pressman Film', 'Ashland Hill Media Finance']",50000000,0,111,2024-08,957452,tt1340094
+The Instigators,0.0,0,30.156,28.406549999999992,"['Crime', 'Mystery', 'Action', 'Comedy']",36.329,"['Artists Equity', 'The Walsh Company', 'Apple Studios', 'Studio 8']",0,0,101,2024-08,1059064,tt24169886
+Cuckoo,0.0,0,8.366,13.928565217391293,"['Horror', 'Mystery']",40.842,"['Waypoint Entertainment', 'Fiction Park', 'NEON', '100 Zeros']",0,0,103,2024-08,869291,tt12349832
+Dìdi (弟弟),0.0,0,8.737,2.8819259259259264,"['Comedy', 'Drama']",34.905,"['Unapologetic Projects', 'Spark Features', 'Antigravity Academy', 'Maiden Voyage Pictures', 'Cedar Road', 'Liucrative Media']",0,0,94,2024-07,1158915,tt30319503
+The Union,0.0,0,10.706,7.639451612903217,"['Action', 'Thriller']",29.053,"['Leverage Entertainment', 'Municipal Pictures', 'Closest to the Hole Productions']",0,0,109,2024-08,704239,tt12610390
+The Duel,0.0,0,12.189,27.462899999999998,"['Comedy', 'Drama']",23.054,['Pigasus Pictures'],0,0,99,2024-07,1094605,tt26546715
+Sebastian,0.0,0,3.097,8.256857142857141,['Drama'],22.877,"['Helsinki-filmi', 'Barry Crerar', 'Les Bêtes Sauvages', 'Lemming Film', 'Bêtes Sauvages']",0,0,110,2024-08,1067485,tt30317033
+Jackpot!,0.0,0,23.001,19.3373125,"['Action', 'Comedy']",25.331,"['Roth-Kirschenbaum Films', 'Feigco Entertainment', 'Amazon MGM Studios']",0,0,104,2024-08,1094138,tt26940324
+Running on Empty,0.0,0,0.001,21.252071428571433,"['Romance', 'Comedy']",18.885,"['ICM Partners', 'Analog 77 Films', 'Black Magic Productions', 'Redwire Pictures', 'Lucky 13 Productions']",0,0,91,2024-08,988512,tt21045564
+Daughters,0.0,0,0.001,0,['Documentary'],18.687,"['Object & Animal', 'Epoch Films', 'World of HA Productions', 'Simpson Street', 'XTR']",0,0,108,2024-08,1214521,tt12336480
+Watchmen: Chapter I,0.0,0,8.476,32.05231578947369,"['Animation', 'Mystery', 'Science Fiction', 'Action']",15.535,"['DC Entertainment', 'Warner Bros. Animation', 'Paramount Pictures']",0,0,83,2024-08,1155058,tt32627540
+The Well,0.0,0,4.351,5.2216000000000005,['Horror'],13.013,['Iperuranio Film'],0,0,91,2024-08,1091267,tt26754354
+My Penguin Friend,0.0,0,3.003,13.5442,"['Family', 'Drama', 'Adventure']",14.429,[],0,0,0,2024-08,1159799,tt8609660
+One Fast Move,0.0,0,27.597,23.8919,"['Action', 'Drama']",14.62,"['GulfStream Pictures', 'Luber Roklin Entertainment']",0,0,107,2024-08,1281826,tt21096576
+Lesbophilia,0.0,0,0.001,14.674800000000001,['Comedy'],10.507,[],0,0,15,2024-07,1122922,tt27629111
+War Game,0.0,0,7.379,0,['Documentary'],9.068,"['Anonymous Content', 'Matador Content', 'Mile End Films', 'Quaker Moving Pictures']",0,0,94,2024-08,1186672,tt26681810
+Rob Peace,0.0,0,54.649,15.406666666666663,"['Drama', 'History']",16.943,"['Los Angeles Media Fund', 'Participant', 'Hill District Media', '25 Stories']",0,0,120,2024-08,1084514,tt10740926
+Duchess,0.0,0,17.958,17.652454545454546,"['Action', 'Crime', 'Thriller']",16.421,[],0,0,113,2024-08,1005076,tt18300732
+Crescent City,0.0,0,2.902,16.015058823529415,"['Crime', 'Thriller', 'Action']",8.856,"['Beno Films', 'Filmopoly', 'Latigo Films', 'The Exchange']",0,0,0,2024-08,1245708,tt18884172
+We Are Zombies,0.0,0,6.336,6.231277777777779,"['Horror', 'Comedy', 'Thriller']",13.295,['Humanoids Inc.'],0,0,80,2024-07,1139106,tt5478456
+Detained,0.0,0,1.009,18.943285714285715,"['Thriller', 'Mystery', 'Crime']",13.163,['Kinogo Pictures'],0,0,97,2024-08,1282960,tt8178762
+Skincare,0.0,0,3.137,23.832562499999998,['Thriller'],14.298,"['Jalapeno Goat', 'Iervolino & Lady Bacardi Entertainment']",0,0,97,2024-08,1144911,tt28223926
+Ganymede,0.0,0,1.079,6.508157894736843,"['Drama', 'Horror', 'Thriller']",10.799,"['Whiskey Stream Films', 'Neighborhood Pictures', 'Iris Indie International']",0,0,97,2024-08,1029322,tt21519398
+Drive Back,0.0,0,0.001,3.507,"['Science Fiction', 'Action', 'Mystery', 'Horror', 'Thriller']",9.694,"['Rotting Press', 'Tremendum Pictures']",0,0,0,2024-08,1022892,tt23639696
+200% Wolf,0.0,0,7.858,11.362499999999999,"['Animation', 'Adventure', 'Fantasy', 'Family']",12.024,"['Studio 100 Animation', 'Flying Bark Productions', '3 Doubles Producciones', 'Atlantika Films', 'Siamese', 'RTVE', 'ScreenWest', 'Screen Australia', 'Screen New South Wales', 'Cue Sound', '20th Century Studios']",0,4543,98,2024-07,974663,tt27722575
+Coup!,0.0,0,1.736,30.423111111111105,"['Comedy', 'Thriller', 'Mystery', 'Crime', 'Drama']",10.729,"['Entertainment 360', 'Film Constellation', 'HappyBad Bungalow', 'Hemlock Circle Productions', 'Phiphen Pictures', 'Greenwich Entertainment']",0,0,98,2024-08,1054221,tt23793170
+Good One,0.0,0,1.562,6.649874999999999,['Drama'],9.739,"['Smudge Films', 'International Pigeon Production', 'Tinygiant', 'Baird Street Pictures']",0,0,90,2024-08,1122618,tt30319516
+The Firing Squad,0.0,0,3.352,22.172285714285717,['Drama'],8.932,"['RiverRain Productions', 'Rock Studios', 'The Epoch Times', 'Epoch Studios']",0,0,93,2024-08,1213395,tt30110854
+Ozi: Voice of the Forest,0.0,0,0.087,34.760636363636365,"['Animation', 'Adventure', 'Family']",12.753,"['Appian Way', 'GCI Film', 'Mike Medavoy Productions', 'Mikros Animation', 'GFM Animation']",37500000,0,87,2024-02,785429,tt12981702
+In Restless Dreams: The Music of Paul Simon,0.0,0,11.49,13.400200000000002,"['Documentary', 'Music']",10.56,"['Jigsaw Productions', 'Closer Media', 'Anonymous Content']",0,0,209,2024-08,1153454,tt28484472
+Joe Rogan: Burn the Boats,0.0,0,0,22.218,['Comedy'],10.055,[],0,0,0,2024-08,1315161,tt32875161
+Sugarcane,0.0,0,0.001,0.001,['Documentary'],9.716,"['Impact Partners', 'Fit Via Vi', 'Kassie Films', 'Hedgehog Films, Inc.']",0,0,107,2024-08,1158874,tt30319854
+Echo Valley,0.0,0,3.513,45.86483333333334,"['Drama', 'Thriller']",9.597,"['Black Bicycle Entertainment', 'Apple Studios', 'Scott Free Productions']",0,0,0,2024-08,1097311,tt27052633
+Bookworm,0.0,0,2.279,14.202000000000002,"['Family', 'Adventure', 'Comedy']",11.038,['Firefly Films'],0,0,103,2024-08,1153110,tt23472210
+Dreams In Nightmares,0.0,0,0.939,13.303833333333335,[],8.714,"['Spark Features', 'Tango Entertainment', 'Birchall Entertainment', 'Paradise City']",0,0,120,2024-08,1308858,tt32765596
+The Organist,0.0,0,0.104,0.179,"['Comedy', 'Drama']",7.427,['Weird Neighbour'],4700,0,97,2024-08,1316417,tt32632689
+Stream,0.0,0,4.367,19.51870833333334,"['Horror', 'Action', 'Thriller']",10.639,['Fuzz on the Lens Productions'],0,0,0,2024-08,806731,tt8964540
+Consumed,0.0,0,2.909,22.723333333333333,['Horror'],8.29,"['Industrial City Films', 'Indie Entertainment', 'XYZ Films', 'Butcher Brothers']",0,0,89,2024-08,1280990,tt13374480
+Lone Wolves,0.0,0,2.931,4.193,['Comedy'],8.194,"['Running Man', 'Madhouse Creative']",20000,0,95,2024-08,1316101,tt29518653
+Foul Evil Deeds,0.0,0,0.001,1.2565000000000002,['Drama'],8.168,['WAYE'],0,0,108,2024-08,1315403,tt22498378
+Light,0.0,0,0.001,0.001,"['Horror', 'Thriller', 'Mystery']",7.981,['Studio V Productions'],300,0,10,2024-07,1219573,tt30485696
+Dark Feathers: Dance of the Geisha,0.0,0,4.777,29.904,['Drama'],7.975,['Hannover House'],0,0,0,2024-08,1260944,tt18566574
+Sanity,0.0,0,0,19.41,['Thriller'],7.928,"['Ascendent Studios Corporation', 'Apple Road Films']",0,0,0,2024-08,1239888,tt4292334
+Junebug,0.0,0,0,21.7825,[],7.379,[],0,0,0,2024-08,1310502,tt32897452
+Invention,0.0,0,0.363,6.658199999999999,['Drama'],8.326,"['Neurotika Haus', 'Jacket Weather']",0,0,72,2024-08,1315409,tt32886599
+Fréwaka,0.0,0,2.944,2.1416666666666666,['Horror'],8.24,"['DoubleBand Films', 'Wildcard Distribution']",0,0,103,2024-08,1189735,tt27828550
+Are you Ready for Love?,0.0,0,0.001,0.0010000000000000002,"['Drama', 'Comedy']",5.229,['4teen'],0,0,0,2024-07,1276436,tt32126241
+The Tributaries,0.0,0,0.034,7.1048,['Drama'],6.142,[],0,0,101,2024-08,1284587,tt28150117
+Lavender Men,0.0,0,2.335,4.502692307692308,[],4.338,[],0,0,99,2024-08,1307735,tt30259910
+Art of a Hit,0.0,0,8.494,12.153428571428574,"['Music', 'Thriller', 'Horror']",7.258,['Dewey & Bug'],0,0,0,2024-08,1224146,tt29611823
+Black Eyed Susan,0.0,0,3.471,5.136750000000001,"['Science Fiction', 'Horror']",4.493,[],0,0,0,2024-08,1186605,tt5584906
+Blood,0.0,0,6.035,21.11066666666667,['Drama'],6.127,['Mutressa Movies'],0,0,111,2024-08,913812,tt11284768
+Speed Demon,0.0,0,0.001,0.001,"['Horror', 'Romance', 'Drama']",5.951,['Starvingg Artist Studios'],1200,0,15,2024-08,1279309,tt22031806
+Black Girls,0.0,0,0.001,0,['Documentary'],5.888,[],0,0,76,2024-08,1268342,tt23727132
+Blondie's,0.0,0,0.172,0.04033333333333333,"['Horror', 'Comedy', 'Thriller']",5.803,"['Flaneurs Faction', 'Lucy Wilder Pictures']",0,0,5,2024-08,1316709,tt26654472
+bUMS,0.0,0,0.001,2.0425555555555555,['Drama'],5.797,['The Jason Raphael Company'],0,0,155,2024-08,1297882,tt27139314
+Bogancloch,0.0,0,4.33,1.518,['Documentary'],5.687,"['Flaneur Films', 'Hopscotch Films', 'Akkeri Films', 'Urth Productions']",0,0,87,2024-08,889747,tt32810133
+Stairway,0.0,0,0.001,0.001,"['History', 'War', 'Drama']",5.562,['A&A Cinema'],15000,0,15,2024-08,1303403,tt31827993
+Lilies Not for Me,0.0,0,3.822,13.5194,"['Drama', 'History']",5.541,"['Paradise City', 'Wolflight Films']",0,0,99,2024-08,1315655,tt30700695
+The House Within,0.0,0,0.001,0.001,['Documentary'],5.24,[],0,0,71,2024-08,1303572,tt30888457
+Skategoat,0.0,0,0.883,14.461,['Documentary'],4.983,[],0,0,79,2024-08,837806,tt12966276
+Picture This,0.0,0,3.767,12.038076923076924,"['Romance', 'Comedy']",4.918,"['Ingenious Media', '42']",0,0,100,2024-08,1204892,tt29471733
+Grant Us Eyes,0.0,0,0.088,2.0191999999999997,"['Crime', 'Thriller']",4.896,[],0,0,50,2024-08,1313702,tt28945042
+Cieco Sordo Muto,0.0,0,0.354,1.2557142857142851,['Horror'],4.896,['Digitmovies Alternative Entertainment'],20000,0,85,2024-08,1181561,tt26768833
+The Shakedown,0.0,0,3.91,4.073499999999999,"['Crime', 'Comedy']",4.888,"['Sketchbook Studios', 'Amazon Studios']",0,0,104,2024-08,1313243,tt32119308
+Marimari,0.0,0,0.245,0,['Documentary'],4.593,[],0,0,97,2024-08,1316966,tt32886648
+Judging Juries,0.0,0,1.544,0.17533333333333337,[],4.496,[],0,0,24,2024-08,1312550,tt27126700
+The Art of Telling Lies,0.0,0,3.375,3.2433333333333336,"['Crime', 'Drama', 'Thriller']",3.717,"['SH Loki', 'Y-US Productions']",0,0,0,2024-08,1197239,tt14393840
+A Costa Rican Wedding,0.0,0,0,20.099,[],3.321,[],0,0,0,2024-08,1310505,tt32820804
+Express,0.0,0,0.001,3.0157499999999997,[],3.667,"['Sailboat Films', 'Little Lizard Productions']",0,0,0,2024-07,1234038,tt30990054
+Stuck,0.0,0,0.001,0.001,['Drama'],2.888,[],796,0,6,2024-08,1317692,tt32942595
+Taki Rua Theatre - Breaking Barriers,0.0,0,0.126,0,[],3.927,[],0,0,80,2024-08,1317850,tt15724040
+Telepathic Letters,0.0,0,3.997,7.48475,['Documentary'],4.052,['Bando à Parte'],0,0,70,2024-08,1316820,tt28815991
+Black Dog,0.0,0,4.999,28.820300000000003,['Drama'],3.184,['Independent Entertainment'],0,0,96,2023-10,1058903,tt11912032
+$55 Private Room in A Safe Quiet Neighborhood,0.0,0,0.001,1.6064999999999996,[],3.123,[],0,0,0,2024-08,1318766,tt28069329
+Donor,0.0,0,0.001,0.4005,[],3.567,[],0,0,0,2024-08,1318796,tt31051342
+The Milk Situation,0.0,0,0.001,0.5672000000000001,"['Horror', 'Action', 'Comedy']",3.504,['Gunpowder House'],500,0,5,2024-08,1307394,tt32658258
+Hope in the Tundra,0.0,0,0.001,0.024,['Horror'],3.436,[],0,0,7,2024-08,1318503,tt32890122
+Pace,0.0,0,0.001,6.42175,[],2.846,[],0,0,0,2024-08,1318770,tt31531109
+Way Home,0.0,0,12.337,0,[],2.83,[],0,0,98,2024-08,1317159,tt30886032
+Like My Brother,0.0,0,0.01,0.02325,['Documentary'],2.99,[],0,0,89,2024-08,1317414,tt3260642
+Methuselah,0.0,0,0.001,0.001,"['Horror', 'Documentary']",2.487,['Lone Horse Films'],1000,0,4,2024-08,1286552,tt32244029
+Mr. Man's Piano,0.0,0,0.181,1.9983333333333333,[],2.493,[],0,0,0,2024-08,1318777,tt27030649
+American Heterosexual Story,0.0,0,0.216,0.35524999999999995,[],2.298,[],0,0,12,2024-08,1319551,tt31490644
+Take Note,0.0,0,0.001,0.12091304347826086,[],2.247,[],0,0,13,2024-08,1318807,tt29622675
+The Greatest Surf Movie in the Universe,0.0,0,0.001,4.034090909090909,"['Comedy', 'Fantasy', 'Animation']",2.197,"['Bronte Pictures', 'Garage Entertainment']",0,0,77,2023-04,1108663,tt16274700
+Summer's End,0.0,0,0.001,8.2054,['Drama'],2.439,['Apple House Pictures'],0,0,20,2024-08,1182712,tt27639483
+Nova,0.0,0,0.001,0.001,"['Drama', 'Fantasy']",1.842,['DAW Studios'],20,0,18,2024-08,1311753,tt32810642
+Fractal,0.0,0,7.029,5.034599999999999,[],1.96,[],0,0,17,2024-08,1320070,tt21920010
+Future Council,0.0,0,7.997,7.997,['Documentary'],1.96,['Madman Entertainment'],0,0,80,2024-08,1319849,tt32757385
+I Like Sitting with You,0.0,0,0.091,0.0395,[],1.873,[],0,0,5,2024-08,1318802,tt28945122
+Bound by Blood,0.0,0,0.001,0.001,[],1.495,[],8,0,6,2024-08,1293766,tt29657057
+Cedric & Alysia,0.0,0,0.001,0.1594,"['Fantasy', 'Romance']",1.4,[],0,0,84,2024-08,1320272,tt31795651
+Queens of Concrete,0.0,0,0.84,0.84,['Documentary'],1.4,[],0,0,87,2024-08,1320193,tt29354887
